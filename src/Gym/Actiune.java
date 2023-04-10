@@ -1,0 +1,12 @@
+package Gym;
+
+public enum Actiune {
+    DESCHIDE,
+    ADAUGA_ANTRENOR,
+    ADAUGA_ABONAT,
+    AFISEAZA_PERSOANE,
+    AFISEAZA_ANTRENORI,
+    AFISEAZA_ABONAT_MAX,
+    ELIMINA_PERSOANA,
+    INCHIDE,
+}
